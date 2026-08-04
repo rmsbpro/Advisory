@@ -157,13 +157,15 @@ Reproduced live in authorized lab (http://192.168.95.131:9292/) on 02/08/2026, i
 
 **a) Execution in browser** (real server response rendered, with evidence band):
 
-![Web execution evidence — 25-broken-role-segregation](evidencia-web-25-broken-role-segregation.png)
+<img width="1180" height="1294" alt="evidencia-web-25-broken-role-segregation" src="https://github.com/user-attachments/assets/7ef4930d-1dac-443e-a364-dbdf220ca7ab" />
+
 
 **b) Vulnerable code line** (`(all admin/faculty pages)`):
 
-![Source code evidence — 25-broken-role-segregation](evidencia-codigo-25-broken-role-segregation.png)
+<img width="2360" height="920" alt="evidencia-codigo-25-broken-role-segregation" src="https://github.com/user-attachments/assets/431ceaad-acfa-4462-bc96-aa15fcac0dc5" />
 
-> **Note:** credentials/PII displayed belong to lab test dataset. Remove real secrets before any external publication.
+
+
 
 ---
 
