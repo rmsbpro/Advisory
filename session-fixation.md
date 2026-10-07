@@ -156,11 +156,13 @@ Reproduced live in authorized lab (http://192.168.95.131:9292/) on 02/08/2026, i
 
 **a) Execution in browser** (real server response rendered, with evidence band):
 
-![Web execution evidence — 22-session-fixation](evidencia-web-22-session-fixation.png)
+<img width="1180" height="886" alt="evidencia-web-22-session-fixation" src="https://github.com/user-attachments/assets/2e0c1ffd-1813-425a-8642-c94a5609b47b" />
+
 
 **b) Vulnerable code line** (`loginlinkadmin.php`):
 
-![Source code evidence — 22-session-fixation](evidencia-codigo-22-session-fixation.png)
+<img width="2360" height="1420" alt="evidencia-codigo-22-session-fixation" src="https://github.com/user-attachments/assets/2bdafc61-69af-40e8-8572-ef9ef40a7c18" />
+
 
 > **Note:** credentials/PII displayed belong to lab test dataset. Remove real secrets before any external publication.
 
@@ -287,9 +289,9 @@ grep -Ei "(union|select|extractvalue|concat|<script|onerror|onload|</textarea)" 
 
 The vulnerability was identified and reported by:
 
-- **Researcher:** vinniboy021@gmail.com
+- **Researcher:** rmsbpro@gmail.com
 - **Organization:** Independent security research
-- **Contact:** vinniboy021@gmail.com
+- **Contact:** rmsbpro@gmail.com
 
 ---
 
@@ -325,5 +327,5 @@ Use of information in this document is solely the reader's responsibility.
 
 For corrections, updates or additional information:
 
-- **Email:** vinniboy021@gmail.com
+- **Email:** rmsbpro@gmail.com
 - **Repository:** https://github.com/mathurvishal/CloudClassroom-PHP-Project
