@@ -158,11 +158,11 @@ Reproduced live in authorized lab (http://192.168.95.131:9292/) on 02/08/2026, i
 
 **a) Execution in browser** (real server response rendered, with evidence band):
 
-![Web execution evidence — 20-deleteid-sqli-family](evidencia-web-20-deleteid-sqli-family.png)
+<img width="1180" height="1016" alt="evidencia-web-20-deleteid-sqli-family" src="https://github.com/user-attachments/assets/1ed2bf9e-050d-4d44-adca-6a723508931b" />
 
 **b) Vulnerable code line** (`facultydetails.php`):
 
-![Source code evidence — 20-deleteid-sqli-family](evidencia-codigo-20-deleteid-sqli-family.png)
+<img width="2360" height="800" alt="evidencia-codigo-20-deleteid-sqli-family" src="https://github.com/user-attachments/assets/e4dc93a8-562f-43db-8364-142e3aed3cfb" />
 
 > **Note:** credentials/PII displayed belong to lab test dataset. Remove real secrets before any external publication.
 
