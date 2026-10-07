@@ -327,5 +327,5 @@ Use of information in this document is solely the reader's responsibility.
 
 For corrections, updates or additional information:
 
-- **Emails:** vinniboy021@gmail.com and rmsbpro@gmail.com
+- **Emails:** rmsbpro@gmail.com and vinniboy021@gmail.com
 - **Repository:** https://github.com/mathurvishal/CloudClassroom-PHP-Project
