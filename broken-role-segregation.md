@@ -292,9 +292,9 @@ grep -Ei "(union|select|extractvalue|concat|<script|onerror|onload|</textarea)" 
 
 The vulnerability was identified and reported by:
 
-- **Researcher:** vinniboy021@gmail.com
+- **Researcher:** rmsbpro@gmail.com
 - **Organization:** Independent security research
-- **Contact:** vinniboy021@gmail.com
+- **Contact:** rmsbpro@gmail.com
 
 ---
 
