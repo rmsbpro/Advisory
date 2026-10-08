@@ -1,8 +1,8 @@
 # Security Advisory — SQL Injection via deleteid (DELETE-based) — family of 7 pages
 
 > **Identifier:** Pending CVE assignment / Internal ID **CC-2026-20**
-> **Publication Date:** 07/10/2026
-> **Last Updated:** 07/10/2026
+> **Publication Date:** 02/08/2026
+> **Last Updated:** 02/08/2026
 > **Severity:** Critical
 > **CVSS:** 9.8 — `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H`
 > **CWE:** CWE-89: SQL Injection
