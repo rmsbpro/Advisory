@@ -291,9 +291,9 @@ grep -Ei "(union|select|extractvalue|concat|<script|onerror|onload|</textarea)" 
 
 The vulnerability was identified and reported by:
 
-- **Researcher:** vinniboy021@gmail.com
+- **Researcher:** rmsbpro@gmail.com
 - **Organization:** Independent security research
-- **Contact:** vinniboy021@gmail.com
+- **Contact:** rmsbpro@gmail.com
 
 ---
 
@@ -329,5 +329,5 @@ Use of information in this document is solely the reader's responsibility.
 
 For corrections, updates or additional information:
 
-- **Email:** vinniboy021@gmail.com
+- **Email:** rmsbpro@gmail.com
 - **Repository:** https://github.com/mathurvishal/CloudClassroom-PHP-Project
